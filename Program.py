@@ -1,7 +1,3 @@
-a=9
-b=9
-sum=a+b
-if sum==18:
-    print("accept")
-else:
-    print("reject")
+i=2
+for i in range (2,21):
+    print(i*1)
